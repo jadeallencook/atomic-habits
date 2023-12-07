@@ -1,0 +1,24 @@
+{
+  "name": "atomic-habits",
+  "version": "1.0.0",
+  "description": "Become the person you want to be by building and tracking your daily habits.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadeallencook/atomic-habits.git"
+  },
+  "keywords": [
+    "habits",
+    "firebase",
+    "react"
+  ],
+  "author": "@jadeallencook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadeallencook/atomic-habits/issues"
+  },
+  "homepage": "https://github.com/jadeallencook/atomic-habits#readme"
+}
