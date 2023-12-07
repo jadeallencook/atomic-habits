@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/jadeallencook/atomic-habits/issues"
   },
-  "homepage": "https://github.com/jadeallencook/atomic-habits#readme"
+  "homepage": "https://github.com/jadeallencook/atomic-habits#readme",
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.16.14"
+  }
 }
