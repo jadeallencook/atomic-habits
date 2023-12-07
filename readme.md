@@ -2,4 +2,4 @@
 
 ## Local Developments
 
-[https://www.youtube.com/watch?v=kVaNbNEa1Zk](Firebase Emulator Tutorial)
+(https://www.youtube.com/watch?v=kVaNbNEa1Zk)[Firebase Emulator Tutorial]
